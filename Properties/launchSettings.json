@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ECL_HighestScore": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Projects\\ECL_HighestScore-master\\ECL_HighestScore-master\\DataFiles\\example_input_data_1.data\" 10"
+    }
+  }
+}

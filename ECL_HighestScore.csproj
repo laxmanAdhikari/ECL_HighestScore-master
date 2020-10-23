@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <Folder Include="ExecutionInstruction\" />
+    <Folder Include="Executables\" />
   </ItemGroup>
 
 </Project>
